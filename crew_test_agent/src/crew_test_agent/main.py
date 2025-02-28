@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # src/latest_ai_development/main.py
 import sys
-from crew import LatestAiDevelopmentCrew
+from crew_test_agent.crew import LatestAiDevelopmentCrew
 
 def run():
   """
